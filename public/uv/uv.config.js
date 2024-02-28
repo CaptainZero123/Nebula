@@ -1,6 +1,6 @@
 self.__uv$config = {
   prefix: "/~/uv/",
-  bare: "/bare/",
+  bare: "https://ixl7thgrademath.vercel.app/bare/",
   encodeUrl: Ultraviolet.codec.aes.encode,
   decodeUrl: Ultraviolet.codec.aes.decode,
   handler: "/uv/uv.handler.js",
